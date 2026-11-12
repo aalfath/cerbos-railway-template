@@ -1,5 +1,7 @@
 # Deploy and Host Cerbos on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/cerbos?utm_medium=integration&utm_source=button&utm_campaign=cerbos)
+
 Cerbos is an open-source authorization engine. You describe who can do what in YAML or JSON policies, and your application asks Cerbos whether a principal may perform an action on a resource. Decisions take milliseconds and support roles, attributes and conditions, which keeps access rules out of application code.
 
 ## About Hosting Cerbos
